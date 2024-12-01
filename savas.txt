@@ -1,0 +1,83 @@
+Atanan Kart Destesi :
+Bilgisayar Destesi
+[Ucak@42dead2c, Fırkateyn@17059d08, Fırkateyn@4907926d, Ucak@296f5c88, Obus@1eef3344, Fırkateyn@25b9104c]
+
+Kullanıcı Destesi
+[Ucak@50d87a6c, Obus@380f7e3, Obus@641291c4, Ucak@9c4c67a, Fırkateyn@1adcd634, Ucak@1ee70563]
+
+Adım sayısı : 1
+
+Bilgisayar Seçilen Kartlar :
+[Ucak@42dead2c, Fırkateyn@25b9104c, Obus@1eef3344]
+
+Kullanıcı Seçilen Kartlar :
+[Obus@641291c4, Ucak@9c4c67a, Fırkateyn@1adcd634]
+
+Savaşan kartlar Kullanıcı : Obus@641291c4 ve Bilgisayar : Ucak@42dead2c
+Kullanıcının Obus@641291c4 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Ucak@42dead2c kartının  vuruş gücü : |10| 'dur.Düşman aracı Kara olan Obus@641291c4 kartına avantajı eklenmiştir. Toplam vuruş gücü : |20| olmuştur.
+Bilgisayarın Ucak@42dead2c kartı kullanıcının Obus@641291c4kartını öldürdü.
+Ucak@42dead2c kartının yeni seviye puanı : |10| olmuştur.
+Bilgisayarın yeni skoru da : |10| olmuştur.
+Kullanıcınınn kartı öldü : Obus@641291c4
+
+Savaşan kartlar Kullanıcı : Ucak@9c4c67a ve Bilgisayar : Fırkateyn@25b9104c
+Kullanıcının Ucak@9c4c67a kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Fırkateyn@25b9104c kartının  vuruş gücü : |10| 'dur.Düşman aracı Hava olan Ucak@9c4c67a kartına avantajı eklenmiştir. Toplam vuruş gücü : |15| olmuştur.
+
+Savaşan kartlar Kullanıcı : Fırkateyn@1adcd634 ve Bilgisayar : Obus@1eef3344
+Kullanıcının Fırkateyn@1adcd634 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Obus@1eef3344 kartının  vuruş gücü : |10| 'dur.Düşman aracı Deniz olan Fırkateyn@1adcd634 kartına avantajı eklenmiştir. Toplam vuruş gücü : |15| olmuştur.
+Kullanıcı skoru 20'den azdır Destesine eklenen kart : Fırkateyn@661a7c51
+Bilgisayar skoru 20'den azdır Destesine eklenen kart : Fırkateyn@3d7a41b5
+
+Adım sayısı : 2
+
+Bilgisayar Seçilen Kartlar :
+[Fırkateyn@17059d08, Ucak@296f5c88, Fırkateyn@3d7a41b5]
+
+Kullanıcı Seçilen Kartlar :
+[Fırkateyn@661a7c51, Ucak@1ee70563, Obus@380f7e3]
+
+Savaşan kartlar Kullanıcı : Fırkateyn@661a7c51 ve Bilgisayar : Fırkateyn@17059d08
+Kullanıcının Fırkateyn@661a7c51 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Fırkateyn@17059d08 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+
+Savaşan kartlar Kullanıcı : Ucak@1ee70563 ve Bilgisayar : Ucak@296f5c88
+Kullanıcının Ucak@1ee70563 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Ucak@296f5c88 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+
+Savaşan kartlar Kullanıcı : Obus@380f7e3 ve Bilgisayar : Fırkateyn@3d7a41b5
+Kullanıcının Obus@380f7e3 kartının  vuruş gücü : |10| 'dur.Düşman aracı Deniz olan Fırkateyn@3d7a41b5 kartına avantajı eklenmiştir. Toplam vuruş gücü : |15| olmuştur.
+Bilgisayarın Fırkateyn@3d7a41b5 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Kullanıcı skoru 20'den azdır Destesine eklenen kart : Ucak@cae4b0d
+Bilgisayar skoru 20'den azdır Destesine eklenen kart : Ucak@43d8f88d
+
+Adım sayısı : 3
+
+Bilgisayar Seçilen Kartlar :
+[Ucak@43d8f88d, Fırkateyn@4907926d, Obus@1eef3344]
+
+Kullanıcı Seçilen Kartlar :
+[Ucak@cae4b0d, Ucak@50d87a6c, Obus@380f7e3]
+
+Savaşan kartlar Kullanıcı : Ucak@cae4b0d ve Bilgisayar : Ucak@43d8f88d
+Kullanıcının Ucak@cae4b0d kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Ucak@43d8f88d kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+
+Savaşan kartlar Kullanıcı : Ucak@50d87a6c ve Bilgisayar : Fırkateyn@4907926d
+Kullanıcının Ucak@50d87a6c kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Fırkateyn@4907926d kartının  vuruş gücü : |10| 'dur.Düşman aracı Hava olan Ucak@50d87a6c kartına avantajı eklenmiştir. Toplam vuruş gücü : |15| olmuştur.
+
+Savaşan kartlar Kullanıcı : Obus@380f7e3 ve Bilgisayar : Obus@1eef3344
+Kullanıcının Obus@380f7e3 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Bilgisayarın Obus@1eef3344 kartının  vuruş gücü : |10| 'dur. Avantajlı düşman yoktur.
+Her iki kart da ölmüştür.
+Bilgisayarın Obus@1eef3344 kartı kullanıcının Obus@380f7e3kartını öldürdü.
+Bilgisayarın yeni skoru : |20| olmuştur.
+Kullanıcının Obus@380f7e3 kartı bilgisayarın Obus@1eef3344kartını öldürdü.
+Kullanıcının yeni skoru da : |10| olmuştur.
+Kullanıcınınn kartı öldü : Obus@380f7e3
+Bilgisayarın kartı öldü : Obus@1eef3344
+Kullanıcı skoru 20'den azdır Destesine eklenen kart : Obus@3d74573b
+Bilgisayar skoru 20'den fazladır Destesine eklenen kart : Siha@1cbc9fa7
